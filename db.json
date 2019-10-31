@@ -50,7 +50,7 @@
               "shipmentItems": [
                 {
                   "orderItemId": 56568665,
-                  "lineItemKey": null,
+                  "lineItemKey": "shopify-1-1839608102997-4103767097429",
                   "sku": "SQ3785739",
                   "name": "Potato Kitten -",
                   "imageUrl": null,
