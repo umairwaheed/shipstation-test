@@ -1,0 +1,14 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "This is a test post."
+        }
+    ],
+    "profile": [
+        {
+            "name": "Umair Khan",
+            "profession": "Software Engineer"
+        }
+    ]
+}
